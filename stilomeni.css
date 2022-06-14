@@ -1,0 +1,334 @@
+body {
+	background-image: 
+	url("dmvjezba/background.jpg") ;
+}
+
+h1 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 40px;
+	width: 700px; position: absolute; left: 48.5%; margin-left: -50px; top: 23%; margin-top: -50px;
+}
+
+.p {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 20px;
+	text-align: justify-all;
+	width: 550px; position: absolute; left: 48%; margin-left: -50px; top: 32%; margin-top: -50px;
+	background-color: rgb(187, 133, 171, 0.5);
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.imgja {
+	width: 450px;
+	position: absolute; left: 15%; margin-left: -50px; top: 23%; margin-top: -50px;
+	border: 10px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+}
+
+.homepagebutton {
+	color: rgb(221,160,221);
+	font-family: inherit;
+	font-family: monospace, "monaco";
+	font-size: 17px;
+	text-align: center;
+	width: 72px;
+	background-color: rgb(107, 38, 75);
+	padding: 10px;
+	padding-bottom: 13px;
+	padding-top: 10px;
+	padding-right: 13px;
+	padding-left: 13px;
+	border: 1px solid rgb(58,36,59);
+	border-radius: 30px;
+	transition: 0.5s;
+	opacity: 0.6;
+	position: absolute; left: 4%; margin-left: -50px; top: 7%; margin-top: -50px;
+}
+
+.homepagebutton:hover {
+	background-color: rgb(107, 38, 75);
+	color: rgb(221,160,221);
+	opacity: 1;
+}
+
+.vježbeizDM1 {
+	color: rgb(221,160,221);
+	font-family: inherit;
+	font-family: monospace, "monaco";
+	font-size: 17px;
+	text-align: center;
+	width: 135px;
+	background-color: rgb(107, 38, 75);
+	padding: 10px;
+	padding-bottom: 13px;
+	padding-top: 10px;
+	padding-right: 13px;
+	padding-left: 13px;
+	border: 1px solid rgb(58,36,59);
+	border-radius: 30px;
+	transition: 0.5s;
+	opacity: 0.6;
+	position: absolute; left: 4%; margin-left: -50px; top: 13%; margin-top: -50px;
+}
+
+.vježbeizDM1:hover {
+	background-color: rgb(107, 38, 75);
+	color: rgb(221,160,221);
+	opacity: 1;
+}
+
+.videovježba {
+	color: rgb(221,160,221);
+	font-family: inherit;
+	font-family: monospace, "monaco";
+	font-size: 17px;
+	text-align: center;
+	width: 135px;
+	background-color: rgb(107, 38, 75);
+	padding: 10px;
+	padding-bottom: 13px;
+	padding-top: 10px;
+	padding-right: 13px;
+	padding-left: 13px;
+	border: 1px solid rgb(58,36,59);
+	border-radius: 30px;
+	transition: 0.5s;
+	opacity: 0.6;
+	position: absolute; left: 4%; margin-left: -50px; top: 19%; margin-top: -50px;
+}
+
+.videovježba:hover {
+	background-color: rgb(107, 38, 75);
+	color: rgb(221,160,221);
+	opacity: 1;
+}
+
+
+
+h2 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 30px;
+	width: 700px; position: absolute; left: 15%; margin-left: -50px; top: 105%; margin-top: -50px;
+}
+
+h3 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 22px;
+	width: 700px; position: absolute; left: 15%; margin-left: -50px; top: 113%; margin-top: -50px;
+}
+
+h4 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 22px;
+	width: 700px; position: absolute; left: 15%; margin-left: -50px; top: 200%; margin-top: -50px;
+}
+
+h5 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 22px;
+	width: 700px; position: absolute; left: 15%; margin-left: -50px; top: 286%; margin-top: -50px;
+}
+
+h6 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 22px;
+	width: 700px; position: absolute; left: 15%; margin-left: -50px; top: 360%; margin-top: -50px;
+}
+
+.img11 {
+	width: 350px;
+	position: absolute; left: 15%; margin-left: -50px; top: 120%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img11:hover {
+	opacity: 1;
+	}
+
+.img12 {
+	width: 350px;
+	position: absolute; left: 42%; margin-left: -50px; top: 120%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img12:hover {
+	opacity: 1;
+}
+
+.img13 {
+	width: 350px;
+	position: absolute; left: 69%; margin-left: -50px; top: 120%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img13:hover {
+	opacity: 1;
+}
+
+.img1 {
+	width: 350px;
+	position: absolute; left: 15%; margin-left: -50px; top: 207%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img1:hover {
+	opacity: 1;
+}
+
+.img6 {
+	width: 350px;
+	position: absolute; left: 42%; margin-left: -50px; top: 207%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img6:hover {
+	opacity: 1;
+}
+
+.img9 {
+	width: 350px;
+	position: absolute; left: 69%; margin-left: -50px; top: 207%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img9:hover {
+	opacity: 1;
+}
+
+.img14 {
+	width: 350px;
+	position: absolute; left: 15%; margin-left: -50px; top: 293%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img14:hover {
+	opacity: 1;
+}
+
+.img15 {
+	width: 350px;
+	position: absolute; left: 42%; margin-left: -50px; top: 293%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img15:hover {
+	opacity: 1;
+}
+
+.img16 {
+	width: 350px;
+	position: absolute; left: 69%; margin-left: -50px; top: 293%; margin-top: -50px;
+	border: 20px solid rgb(187, 133, 171, 0.9);
+	border-radius: 20px;
+	transition: 0.6s;
+	opacity: 0.5;
+}
+
+.img16:hover {
+	opacity: 1;
+}
+
+.a1 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 17px;
+	text-align: center;
+	width: 165px; position: absolute; left: 15%; margin-left: -50px; top: 363%; margin-top: -50px;
+	background-color: rgb(107, 38, 75, 0);
+	padding: 10px;
+	border: 1px solid rgb(58,36,59, 0);
+	border-radius: 30px;
+	transition: 0.6s;
+	opacity: 0.6;
+}
+
+.a1:hover {
+	background-color: rgb(107, 38, 75);
+	color: rgb(221,160,221);
+	opacity: 1;
+
+}
+
+.a2 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 17px;
+	text-align: center;
+	width: 430px; position: absolute; left: 15%; margin-left: -50px; top: 368%; margin-top: -50px;
+	background-color: rgb(107, 38, 75, 0);
+	padding: 10px;
+	border: 1px solid rgb(58,36,59, 0);
+	border-radius: 30px;
+	transition: 0.6s;
+	opacity: 0.6;
+}
+
+.a2:hover {
+	background-color: rgb(107, 38, 75);
+	color: rgb(221,160,221);
+	opacity: 1;
+
+}
+
+.a3 {
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 17px;
+	text-align: center;
+	width: 340px; position: absolute; left: 15%; margin-left: -50px; top: 373%; margin-top: -50px;
+	background-color: rgb(107, 38, 75, 0);
+	padding: 10px;
+	border: 1px solid rgb(58,36,59, 0);
+	border-radius: 30px;
+	transition: 0.6s;
+	opacity: 0.6;
+}
+
+.a3:hover {
+	background-color: rgb(107, 38, 75);
+	color: rgb(221,160,221);
+	opacity: 1;
+
+}
+
+.grf {
+	text-align: center;
+	color: rgb(107, 38, 75);
+	font-family: monospace, "monaco";
+	font-size: 17px;
+	width: 300px;
+	line-height:30px;
+	position: absolute; left: 45.5%; margin-left: -50px; top: 390%; margin-top: -70px;
+}
